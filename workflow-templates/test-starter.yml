@@ -1,4 +1,4 @@
-name: Package and Push Helm chart to JFrog
+name: Linda Tests
 
 on:
   # allows manual trigger of worklaod
