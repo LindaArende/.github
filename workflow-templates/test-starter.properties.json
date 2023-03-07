@@ -1,0 +1,9 @@
+{
+    "name": "Linda's test",
+    "description": "Simple test starter workflow",
+    "categories": [
+        "continuous-integration",
+        "YAML"
+    ],
+    "filePatterns": []
+}

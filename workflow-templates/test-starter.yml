@@ -1,0 +1,13 @@
+name: Package and Push Helm chart to JFrog
+
+on:
+  # allows manual trigger of worklaod
+  workflow_dispatch:
+  # will trigger on PR merge to main branch
+  push:
+    branches: ["main"]
+
+jobs:
+  greet-the-world:
+    - name: Hello
+      run: echo "Hello, World! It's a nice day!"
